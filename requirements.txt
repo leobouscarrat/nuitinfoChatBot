@@ -1,0 +1,11 @@
+certifi==2017.11.5
+chardet==3.0.4
+geopy==1.11.0
+idna==2.6
+prompt-toolkit==1.0.15
+requests==2.18.4
+six==1.11.0
+urllib3==1.22
+wcwidth==0.1.7
+wincertstore==0.2
+wit==4.3.0
